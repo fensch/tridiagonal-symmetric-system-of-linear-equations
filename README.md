@@ -1,0 +1,1 @@
+# tridiagonal-symmetric-system-of-linear-equations
