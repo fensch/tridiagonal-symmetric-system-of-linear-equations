@@ -1,6 +1,6 @@
 # tridiagonal-symmetric-system-of-linear-equations
 
-This script solves systems of linear equations with tridiagonal symmetric matrix. Therefore insert your diagonal (__a__), upper diagonal (__u__) and RHS (__b__) vectors in the first few lines of the code and execute it.
+This script solves systems of linear equations with tridiagonal symmetric matrices. Therefore insert your diagonal (__a__), upper diagonal (__u__) and RHS (__b__) vectors in the first few lines of the code and execute it.
 The equation should look something like this:
 
 $$ \begin{bmatrix}
