@@ -26,4 +26,4 @@ $$ \begin{bmatrix}
     b_{n-1}
   \end{bmatrix} \in \mathbb{R}^{n}$$
   
-Since using Gaussian eliminiation would lead to $\mathcal{O}(n^3)$ this algorithm is much faster with $\mathcal{O}(n)$ and explictly $8n-6$  operations.
+Since using Gaussian eliminiation would lead to $\mathcal{O}(n^3)$ this algorithm is much faster with $\mathcal{O}(n)$ and explicitly $8n-6$  operations.
